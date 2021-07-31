@@ -1,3 +1,5 @@
+node_modules/
+package-lock.json/
 # For projects that use the Waf build system: https://waf.io/
 # Dot-hidden on Unix-like systems
 .waf-*-*/
@@ -7,5 +9,3 @@ waf-*-*/
 waf3-*-*/
 # Lockfile
 .lock-waf_*_build
-Goldman-Sachs/node_modules/
-./Goldman-Sachs/package-lock.json
