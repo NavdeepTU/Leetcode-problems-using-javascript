@@ -1,5 +1,5 @@
 node_modules/
-package-lock.json/
+package-lock.json
 # For projects that use the Waf build system: https://waf.io/
 # Dot-hidden on Unix-like systems
 .waf-*-*/
